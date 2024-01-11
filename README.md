@@ -1,8 +1,14 @@
-# Task Manager iOS App
+# Task Manager iOS App 
 
-<img width="1728" alt="Screenshot 2024-01-10 at 2 08 16 PM" src="https://github.com/trace-swift-ui/To-Do-List-app/assets/8535292/a88087ca-1ec7-4315-85d1-30524bea7c8c">
+I built a simple to-do list app using the new Excalidraw based whiteboard functionality on Trace.
 
-This is a simple Task Manager iOS app built using SwiftUI. The app allows users to create, edit, and delete tasks, as well as mark them as completed. This project was built using [Trace AI](https://trace.zip) and can be demoed at [https://trace.zip/c/19f2d81f-a93e-404c-afde-0d329499d711](https://trace.zip/c/19f2d81f-a93e-404c-afde-0d329499d711).
+This is a simple Task Manager iOS app built using SwiftUI. The app allows users to create, edit, and delete tasks, as well as mark them as completed. This project was built using [Trace AI](https://trace.zip) and can be demoed at [https://trace.zip/id/19f2d81f-a93e-404c-afde-0d329499d711](https://trace.zip/c/19f2d81f-a93e-404c-afde-0d329499d711).
+
+## Whiteboard Mockup
+<img width="1024" alt="Screenshot 2024-01-10 at 2 08 16 PM" src="https://github.com/trace-swift-ui/To-Do-List-app/assets/8535292/a88087ca-1ec7-4315-85d1-30524bea7c8c">
+
+## Youtube Tutorial
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VbypILb1DaY/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=VbypILb1DaY))
 
 ## Features
 
