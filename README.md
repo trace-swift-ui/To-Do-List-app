@@ -1,6 +1,6 @@
 # Task Manager iOS App
 
-![App Preview](https://login.trace.zip/storage/v1/object/public/trace/19f2d81f-a93e-404c-afde-0d329499d711)
+<img width="1728" alt="Screenshot 2024-01-10 at 2 08 16 PM" src="https://github.com/trace-swift-ui/To-Do-List-app/assets/8535292/a88087ca-1ec7-4315-85d1-30524bea7c8c">
 
 This is a simple Task Manager iOS app built using SwiftUI. The app allows users to create, edit, and delete tasks, as well as mark them as completed. This project was built using [Trace AI](https://trace.zip) and can be demoed at [https://trace.zip/c/19f2d81f-a93e-404c-afde-0d329499d711](https://trace.zip/c/19f2d81f-a93e-404c-afde-0d329499d711).
 
