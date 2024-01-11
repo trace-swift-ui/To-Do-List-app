@@ -8,7 +8,8 @@ This is a simple Task Manager iOS app built using SwiftUI. The app allows users 
 <img width="1024" alt="Screenshot 2024-01-10 at 2 08 16 PM" src="https://github.com/trace-swift-ui/To-Do-List-app/assets/8535292/a88087ca-1ec7-4315-85d1-30524bea7c8c">
 
 ## Youtube Tutorial
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VbypILb1DaY/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=VbypILb1DaY))
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VbypILb1DaY/0.jpg)](https://www.youtube.com/watch?v=VbypILb1DaY)
+
 
 ## Features
 
